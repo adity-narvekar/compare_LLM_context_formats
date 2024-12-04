@@ -1,0 +1,1859 @@
+{
+    "Semester One": [
+        {
+            "Course Code": "BDS MAT 109",
+            "Course Name": "Mathematics for Data Scientists",
+            "Timetabled Hours": 36,
+            "Personal Study Hours": 36,
+            "Credits": 3,
+            "Prerequisites/Co-requisites": "NIL",
+            "Lecturer": "Suchismita Das",
+            "Schedule": [
+                {
+                    "Date": "17-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "17-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "17-SEP-24",
+                    "Time": "14:00",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "19-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "19-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "19-SEP-24",
+                    "Time": "14:00",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "24-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "24-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "24-SEP-24",
+                    "Time": "14:00",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "26-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "26-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "26-SEP-24",
+                    "Time": "14:00",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "01-OCT-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "01-OCT-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "01-OCT-24",
+                    "Time": "14:00",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "03-OCT-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "03-OCT-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "03-OCT-24",
+                    "Time": "14:00",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "09-OCT-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "09-OCT-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "09-OCT-24",
+                    "Time": "14:00",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "11-OCT-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "11-OCT-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "11-OCT-24",
+                    "Time": "14:00",
+                    "Location": "LC4",
+                    "Duration": 90
+                }
+            ]
+        },
+        {
+            "Course Code": "BDS MAT 110",
+            "Course Name": "Introduction to Statistics and Probability",
+            "Timetabled Hours": 36,
+            "Personal Study Hours": 36,
+            "Credits": 3,
+            "Prerequisites/Co-requisites": "NIL",
+            "Lecturer": "Abhijit Dasgupta and Karman Kaur",
+            "Schedule": [
+                {
+                    "Date": "09-SEP-24",
+                    "Time": "14:00",
+                    "Location": "LC4",
+                    "Duration": 180
+                },
+                {
+                    "Date": "16-SEP-24",
+                    "Time": "14:00",
+                    "Location": "LC4",
+                    "Duration": 180
+                },
+                {
+                    "Date": "23-SEP-24",
+                    "Time": "14:00",
+                    "Location": "LC4",
+                    "Duration": 180
+                },
+                {
+                    "Date": "30-SEP-24",
+                    "Time": "14:00",
+                    "Location": "LC4",
+                    "Duration": 180
+                },
+                {
+                    "Date": "14-OCT-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "14-OCT-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "04-NOV-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "04-NOV-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "11-NOV-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "11-NOV-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "18-NOV-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "18-NOV-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "25-NOV-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "25-NOV-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "02-DEC-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "02-DEC-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                }
+            ]
+        },
+        {
+            "Course Code": "BDS BUS 101",
+            "Course Name": "Foundation Skills 1: Personal and Career Foundations",
+            "Timetabled Hours": 13.5,
+            "Personal Study Hours": 13.5,
+            "Credits": 1,
+            "Prerequisites/Co-requisites": "NIL",
+            "Lecturer": "Shurmara Fernando",
+            "Schedule": [
+                {
+                    "Date": "02-OCT-24",
+                    "Time": "14:00",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "02-OCT-24",
+                    "Time": "16:00",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "17-OCT-24",
+                    "Time": "14:00",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "06-NOV-24",
+                    "Time": "14:00",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "06-NOV-24",
+                    "Time": "16:00",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "20-NOV-24",
+                    "Time": "14:00",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "20-NOV-24",
+                    "Time": "16:00",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "04-DEC-24",
+                    "Time": "14:00",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "04-DEC-24",
+                    "Time": "16:00",
+                    "Location": "LC4",
+                    "Duration": 90
+                }
+            ]
+        },
+        {
+            "Course Code": "BDS CSC 101",
+            "Course Name": "Introduction to Computer Programming",
+            "Timetabled Hours": 36,
+            "Personal Study Hours": 36,
+            "Credits": 3,
+            "Prerequisites/Co-requisites": "NIL",
+            "Lecturer": "Aditya Narvekar",
+            "Schedule": [
+                {
+                    "Date": "10-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "10-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "12-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "12-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "25-SEP-24",
+                    "Time": "14:00",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "25-SEP-24",
+                    "Time": "16:00",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "08-OCT-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "08-OCT-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "10-OCT-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "10-OCT-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "17-OCT-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "17-OCT-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "06-NOV-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "06-NOV-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "13-NOV-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "13-NOV-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "20-NOV-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "20-NOV-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "27-NOV-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "27-NOV-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "04-DEC-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "04-DEC-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "11-DEC-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "11-DEC-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                }
+            ]
+        },
+        {
+            "Course Code": "BDS DSC 101",
+            "Course Name": "Introduction to Databases",
+            "Timetabled Hours": 36,
+            "Personal Study Hours": 36,
+            "Credits": 3,
+            "Prerequisites/Co-requisites": "NIL",
+            "Lecturer": "Sunil Lakdawala",
+            "Schedule": [
+                {
+                    "Date": "09-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "11-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "13-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "16-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "18-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "20-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "23-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "25-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "27-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "30-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "02-OCT-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "04-OCT-24",
+                    "Time": "09:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "09-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "11-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "13-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "16-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "18-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "20-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "23-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "25-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "27-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "30-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "02-OCT-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                },
+                {
+                    "Date": "04-OCT-24",
+                    "Time": "11:30",
+                    "Location": "LC4",
+                    "Duration": 90
+                }
+            ]
+        }
+    ],
+    "Semester Three": [
+        {
+            "Course Code": "BDS MAT 205",
+            "Course Name": "Advanced Calculus",
+            "Timetabled Hours": 36,
+            "Personal Study Hours": 36,
+            "Credits": 3,
+            "Prerequisites/Co-requisites": "Calculus",
+            "Lecturer": "Karman Kaur",
+            "Schedule": [
+                {
+                    "Date": "18-SEP-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "18-SEP-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "18-SEP-24",
+                    "Time": "14:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "18-SEP-24",
+                    "Time": "16:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "25-SEP-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "25-SEP-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "25-SEP-24",
+                    "Time": "14:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "25-SEP-24",
+                    "Time": "16:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "02-OCT-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "02-OCT-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "09-OCT-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "09-OCT-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "16-OCT-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "16-OCT-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "23-OCT-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "23-OCT-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "06-NOV-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "06-NOV-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "13-NOV-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "13-NOV-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "20-NOV-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "20-NOV-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "27-NOV-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "27-NOV-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "04-DEC-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "04-DEC-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                }
+            ]
+        },
+        {
+            "Course Code": "BDS MAT 206",
+            "Course Name": "Algorithms and Data Structures",
+            "Timetabled Hours": 36,
+            "Personal Study Hours": 36,
+            "Credits": 3,
+            "Prerequisites/Co-requisites": "Introduction to Computer Programming",
+            "Lecturer": "Narasimha Karumanchi",
+            "Schedule": [
+                {
+                    "Date": "03-SEP-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "03-SEP-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "04-SEP-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "04-SEP-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "05-SEP-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "05-SEP-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "06-SEP-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "06-SEP-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "09-SEP-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "09-SEP-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "10-SEP-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "10-SEP-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "11-SEP-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "11-SEP-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "12-SEP-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "12-SEP-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "13-SEP-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "13-SEP-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "01-OCT-24",
+                    "Time": "14:00",
+                    "Location": "Online",
+                    "Duration": 90
+                },
+                {
+                    "Date": "03-OCT-24",
+                    "Time": "14:00",
+                    "Location": "Online",
+                    "Duration": 90
+                },
+                {
+                    "Date": "15-NOV-24",
+                    "Time": "14:00",
+                    "Location": "Online",
+                    "Duration": 90
+                },
+                {
+                    "Date": "15-NOV-24",
+                    "Time": "16:00",
+                    "Location": "Online",
+                    "Duration": 90
+                }
+            ]
+        },
+        {
+            "Course Code": "BDS ORG 201",
+            "Course Name": "Employability and Practitioner Skills Series 1: Emotional Intelligence",
+            "Timetabled Hours": 13.5,
+            "Personal Study Hours": 13.5,
+            "Credits": 1,
+            "Prerequisites/Co-requisites": "Foundation Skills 1 and BDS LIB 101: Foundation Skills 2",
+            "Lecturer": "Richard Coller",
+            "Schedule": [
+                {
+                    "Date": "23-SEP-24",
+                    "Time": "15:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "02-OCT-24",
+                    "Time": "14:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "07-OCT-24",
+                    "Time": "14:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "23-OCT-24",
+                    "Time": "14:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "06-NOV-24",
+                    "Time": "14:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "13-NOV-24",
+                    "Time": "14:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "20-NOV-24",
+                    "Time": "14:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "27-NOV-24",
+                    "Time": "14:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "04-DEC-24",
+                    "Time": "14:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                }
+            ]
+        },
+        {
+            "Course Code": "BDS DSC 203",
+            "Course Name": "Data Integration and Warehousing",
+            "Timetabled Hours": 36,
+            "Personal Study Hours": 36,
+            "Credits": 3,
+            "Prerequisites/Co-requisites": "Introduction to Databases",
+            "Lecturer": "Dinakar Bhotta",
+            "Schedule": [
+                {
+                    "Date": "16-SEP-24",
+                    "Time": "17:00",
+                    "Location": "BDS LAB",
+                    "Duration": 180
+                },
+                {
+                    "Date": "17-SEP-24",
+                    "Time": "17:00",
+                    "Location": "BDS LAB",
+                    "Duration": 180
+                },
+                {
+                    "Date": "23-SEP-24",
+                    "Time": "17:00",
+                    "Location": "BDS LAB",
+                    "Duration": 180
+                },
+                {
+                    "Date": "24-SEP-24",
+                    "Time": "17:00",
+                    "Location": "BDS LAB",
+                    "Duration": 180
+                },
+                {
+                    "Date": "01-OCT-24",
+                    "Time": "17:00",
+                    "Location": "BDS LAB",
+                    "Duration": 180
+                },
+                {
+                    "Date": "08-OCT-24",
+                    "Time": "17:00",
+                    "Location": "BDS LAB",
+                    "Duration": 180
+                },
+                {
+                    "Date": "22-OCT-24",
+                    "Time": "17:00",
+                    "Location": "BDS LAB",
+                    "Duration": 180
+                },
+                {
+                    "Date": "05-NOV-24",
+                    "Time": "17:00",
+                    "Location": "BDS LAB",
+                    "Duration": 180
+                },
+                {
+                    "Date": "12-NOV-24",
+                    "Time": "17:00",
+                    "Location": "BDS LAB",
+                    "Duration": 180
+                },
+                {
+                    "Date": "19-NOV-24",
+                    "Time": "17:00",
+                    "Location": "BDS LAB",
+                    "Duration": 180
+                },
+                {
+                    "Date": "26-NOV-24",
+                    "Time": "17:00",
+                    "Location": "BDS LAB",
+                    "Duration": 180
+                },
+                {
+                    "Date": "03-DEC-24",
+                    "Time": "17:00",
+                    "Location": "BDS LAB",
+                    "Duration": 180
+                }
+            ]
+        },
+        {
+            "Course Code": "BDS DSC 204",
+            "Course Name": "Visual Analytics",
+            "Timetabled Hours": 36,
+            "Personal Study Hours": 36,
+            "Credits": 3,
+            "Prerequisites/Co-requisites": "NIL",
+            "Lecturer": "Khimji Vaghjiani",
+            "Schedule": [
+                {
+                    "Date": "20-SEP-24",
+                    "Time": "14:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "20-SEP-24",
+                    "Time": "16:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "27-SEP-24",
+                    "Time": "14:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "27-SEP-24",
+                    "Time": "16:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "03-OCT-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "03-OCT-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "04-OCT-24",
+                    "Time": "14:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "04-OCT-24",
+                    "Time": "16:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "10-OCT-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "10-OCT-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "11-OCT-24",
+                    "Time": "14:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "11-OCT-24",
+                    "Time": "16:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "24-OCT-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "24-OCT-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "25-OCT-24",
+                    "Time": "14:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "25-OCT-24",
+                    "Time": "16:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "07-NOV-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "07-NOV-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "08-NOV-24",
+                    "Time": "14:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "08-NOV-24",
+                    "Time": "16:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "05-DEC-24",
+                    "Time": "09:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "05-DEC-24",
+                    "Time": "11:30",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "06-DEC-24",
+                    "Time": "14:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                },
+                {
+                    "Date": "06-DEC-24",
+                    "Time": "16:00",
+                    "Location": "BDS LAB",
+                    "Duration": 90
+                }
+            ]
+        }
+    ],
+    "Semester Five": [
+        {
+            "Course Code": "BD QTT 302",
+            "Course Name": "Simulation Modelling",
+            "Timetabled Hours": 36,
+            "Personal Study Hours": 36,
+            "Credits": 3,
+            "Prerequisites/Co-requisites": "Programming for Analytics",
+            "Lecturer": "Suchismita Das",
+            "Schedule": [
+                {
+                    "Date": "11-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "11-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "16-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "16-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "18-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "18-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "20-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "20-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "23-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "23-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "25-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "25-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "27-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "27-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "30-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "30-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "02-OCT-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "02-OCT-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "04-OCT-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "04-OCT-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "10-OCT-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "10-OCT-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                }
+            ]
+        },
+        {
+            "Course Code": "BDS DSC 305",
+            "Course Name": "Data Mining",
+            "Timetabled Hours": 36,
+            "Personal Study Hours": 36,
+            "Credits": 3,
+            "Prerequisites/Co-requisites": "Machine Learning",
+            "Lecturer": "Sunil Lakdawala",
+            "Schedule": [
+                {
+                    "Date": "10-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "10-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "12-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "12-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "17-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "17-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "17-SEP-24",
+                    "Time": "14:00",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "19-SEP-24",
+                    "Time": "13:00",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "19-SEP-24",
+                    "Time": "15:00",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "24-SEP-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "24-SEP-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "24-SEP-24",
+                    "Time": "14:00",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "26-SEP-24",
+                    "Time": "13:00",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "26-SEP-24",
+                    "Time": "15:00",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "01-OCT-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "01-OCT-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "01-OCT-24",
+                    "Time": "14:00",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "03-OCT-24",
+                    "Time": "13:00",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "03-OCT-24",
+                    "Time": "15:00",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "08-OCT-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "08-OCT-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "08-OCT-24",
+                    "Time": "14:00",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "09-OCT-24",
+                    "Time": "14:00",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "09-OCT-24",
+                    "Time": "15:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                }
+            ]
+        },
+        {
+            "Course Code": "BDS COM 301",
+            "Course Name": "Employability and Practitioner Skills Series 3: Communicating Effectively",
+            "Timetabled Hours": 13.5,
+            "Personal Study Hours": 13.5,
+            "Credits": 1,
+            "Prerequisites/Co-requisites": "Employability and Practitioner Skills Series 2: Leadership, Teamwork, Global Dexterity",
+            "Lecturer": "Richard Coller",
+            "Schedule": [
+                {
+                    "Date": "16-SEP-24",
+                    "Time": "14:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "27-SEP-24",
+                    "Time": "14:00",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "30-SEP-24",
+                    "Time": "14:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "24-OCT-24",
+                    "Time": "14:00",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "07-NOV-24",
+                    "Time": "14:00",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "14-NOV-24",
+                    "Time": "14:00",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "21-NOV-24",
+                    "Time": "14:00",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "28-NOV-24",
+                    "Time": "14:00",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "05-DEC-24",
+                    "Time": "14:00",
+                    "Location": "LC1",
+                    "Duration": 90
+                }
+            ]
+        },
+        {
+            "Course Code": "BDS DSC 306",
+            "Course Name": "Object Relational and NoSQL Databases",
+            "Timetabled Hours": 36,
+            "Personal Study Hours": 36,
+            "Credits": 3,
+            "Prerequisites/Co-requisites": "Data Integration and Warehousing",
+            "Lecturer": "Dinakar Bhotta",
+            "Schedule": [
+                {
+                    "Date": "11-SEP-24",
+                    "Time": "17:00",
+                    "Location": "LC1",
+                    "Duration": 180
+                },
+                {
+                    "Date": "12-SEP-24",
+                    "Time": "17:00",
+                    "Location": "LC1",
+                    "Duration": 180
+                },
+                {
+                    "Date": "19-SEP-24",
+                    "Time": "17:00",
+                    "Location": "LC1",
+                    "Duration": 180
+                },
+                {
+                    "Date": "26-SEP-24",
+                    "Time": "17:00",
+                    "Location": "LC1",
+                    "Duration": 180
+                },
+                {
+                    "Date": "03-OCT-24",
+                    "Time": "17:00",
+                    "Location": "LC1",
+                    "Duration": 180
+                },
+                {
+                    "Date": "10-OCT-24",
+                    "Time": "17:00",
+                    "Location": "LC1",
+                    "Duration": 180
+                },
+                {
+                    "Date": "24-OCT-24",
+                    "Time": "17:00",
+                    "Location": "LC1",
+                    "Duration": 180
+                },
+                {
+                    "Date": "07-NOV-24",
+                    "Time": "17:00",
+                    "Location": "LC1",
+                    "Duration": 180
+                },
+                {
+                    "Date": "14-NOV-24",
+                    "Time": "17:00",
+                    "Location": "LC1",
+                    "Duration": 180
+                },
+                {
+                    "Date": "21-NOV-24",
+                    "Time": "17:00",
+                    "Location": "LC1",
+                    "Duration": 180
+                },
+                {
+                    "Date": "28-NOV-24",
+                    "Time": "17:00",
+                    "Location": "LC1",
+                    "Duration": 180
+                },
+                {
+                    "Date": "05-DEC-24",
+                    "Time": "17:00",
+                    "Location": "LC1",
+                    "Duration": 180
+                }
+            ]
+        },
+        {
+            "Course Code": "BDS PRO 301",
+            "Course Name": "Data Science Capstone Project I",
+            "Timetabled Hours": 36,
+            "Personal Study Hours": 36,
+            "Credits": 3,
+            "Prerequisites/Co-requisites": "Data Integration, Warehousing; Programming for Analytics and completed any 8 units in addition to these specific units",
+            "Lecturer": "Abhijit Dasgupta",
+            "Schedule": [
+                {
+                    "Date": "18-SEP-24",
+                    "Time": "14:00",
+                    "Location": "Online",
+                    "Duration": 90
+                },
+                {
+                    "Date": "18-SEP-24",
+                    "Time": "16:00",
+                    "Location": "Online",
+                    "Duration": 90
+                },
+                {
+                    "Date": "02-OCT-24",
+                    "Time": "14:00",
+                    "Location": "Online",
+                    "Duration": 90
+                },
+                {
+                    "Date": "02-OCT-24",
+                    "Time": "16:00",
+                    "Location": "Online",
+                    "Duration": 90
+                },
+                {
+                    "Date": "11-OCT-24",
+                    "Time": "14:00",
+                    "Location": "Online",
+                    "Duration": 90
+                },
+                {
+                    "Date": "11-OCT-24",
+                    "Time": "16:00",
+                    "Location": "Online",
+                    "Duration": 90
+                },
+                {
+                    "Date": "22-OCT-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "22-OCT-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "23-OCT-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "23-OCT-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "24-OCT-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "24-OCT-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "05-NOV-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "05-NOV-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "06-NOV-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "06-NOV-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "07-NOV-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "07-NOV-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "13-NOV-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "13-NOV-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "19-NOV-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "19-NOV-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "20-NOV-24",
+                    "Time": "09:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                },
+                {
+                    "Date": "20-NOV-24",
+                    "Time": "11:30",
+                    "Location": "LC1",
+                    "Duration": 90
+                }
+            ]
+        }
+    ]
+}

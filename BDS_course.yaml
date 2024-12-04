@@ -1,0 +1,1250 @@
+Semester Five:
+- Course Code: BD QTT 302
+  Course Name: Simulation Modelling
+  Credits: 3
+  Lecturer: Suchismita Das
+  Personal Study Hours: 36
+  Prerequisites/Co-requisites: Programming for Analytics
+  Schedule:
+  - Date: 11-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 11-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 16-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 16-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 18-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 18-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 20-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 20-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 23-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 23-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 25-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 25-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 27-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 27-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 30-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 30-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 02-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 02-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 04-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 04-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 10-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 10-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  Timetabled Hours: 36
+- Course Code: BDS DSC 305
+  Course Name: Data Mining
+  Credits: 3
+  Lecturer: Sunil Lakdawala
+  Personal Study Hours: 36
+  Prerequisites/Co-requisites: Machine Learning
+  Schedule:
+  - Date: 10-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 10-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 12-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 12-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 17-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 17-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 17-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '14:00'
+  - Date: 19-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '13:00'
+  - Date: 19-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '15:00'
+  - Date: 24-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 24-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 24-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '14:00'
+  - Date: 26-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '13:00'
+  - Date: 26-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '15:00'
+  - Date: 01-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 01-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 01-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: '14:00'
+  - Date: 03-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: '13:00'
+  - Date: 03-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: '15:00'
+  - Date: 08-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 08-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 08-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: '14:00'
+  - Date: 09-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: '14:00'
+  - Date: 09-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: '15:30'
+  Timetabled Hours: 36
+- Course Code: BDS COM 301
+  Course Name: 'Employability and Practitioner Skills Series 3: Communicating Effectively'
+  Credits: 1
+  Lecturer: Richard Coller
+  Personal Study Hours: 13.5
+  Prerequisites/Co-requisites: 'Employability and Practitioner Skills Series 2: Leadership,
+    Teamwork, Global Dexterity'
+  Schedule:
+  - Date: 16-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '14:30'
+  - Date: 27-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '14:00'
+  - Date: 30-SEP-24
+    Duration: 90
+    Location: LC1
+    Time: '14:30'
+  - Date: 24-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: '14:00'
+  - Date: 07-NOV-24
+    Duration: 90
+    Location: LC1
+    Time: '14:00'
+  - Date: 14-NOV-24
+    Duration: 90
+    Location: LC1
+    Time: '14:00'
+  - Date: 21-NOV-24
+    Duration: 90
+    Location: LC1
+    Time: '14:00'
+  - Date: 28-NOV-24
+    Duration: 90
+    Location: LC1
+    Time: '14:00'
+  - Date: 05-DEC-24
+    Duration: 90
+    Location: LC1
+    Time: '14:00'
+  Timetabled Hours: 13.5
+- Course Code: BDS DSC 306
+  Course Name: Object Relational and NoSQL Databases
+  Credits: 3
+  Lecturer: Dinakar Bhotta
+  Personal Study Hours: 36
+  Prerequisites/Co-requisites: Data Integration and Warehousing
+  Schedule:
+  - Date: 11-SEP-24
+    Duration: 180
+    Location: LC1
+    Time: '17:00'
+  - Date: 12-SEP-24
+    Duration: 180
+    Location: LC1
+    Time: '17:00'
+  - Date: 19-SEP-24
+    Duration: 180
+    Location: LC1
+    Time: '17:00'
+  - Date: 26-SEP-24
+    Duration: 180
+    Location: LC1
+    Time: '17:00'
+  - Date: 03-OCT-24
+    Duration: 180
+    Location: LC1
+    Time: '17:00'
+  - Date: 10-OCT-24
+    Duration: 180
+    Location: LC1
+    Time: '17:00'
+  - Date: 24-OCT-24
+    Duration: 180
+    Location: LC1
+    Time: '17:00'
+  - Date: 07-NOV-24
+    Duration: 180
+    Location: LC1
+    Time: '17:00'
+  - Date: 14-NOV-24
+    Duration: 180
+    Location: LC1
+    Time: '17:00'
+  - Date: 21-NOV-24
+    Duration: 180
+    Location: LC1
+    Time: '17:00'
+  - Date: 28-NOV-24
+    Duration: 180
+    Location: LC1
+    Time: '17:00'
+  - Date: 05-DEC-24
+    Duration: 180
+    Location: LC1
+    Time: '17:00'
+  Timetabled Hours: 36
+- Course Code: BDS PRO 301
+  Course Name: Data Science Capstone Project I
+  Credits: 3
+  Lecturer: Abhijit Dasgupta
+  Personal Study Hours: 36
+  Prerequisites/Co-requisites: Data Integration, Warehousing; Programming for Analytics
+    and completed any 8 units in addition to these specific units
+  Schedule:
+  - Date: 18-SEP-24
+    Duration: 90
+    Location: Online
+    Time: '14:00'
+  - Date: 18-SEP-24
+    Duration: 90
+    Location: Online
+    Time: '16:00'
+  - Date: 02-OCT-24
+    Duration: 90
+    Location: Online
+    Time: '14:00'
+  - Date: 02-OCT-24
+    Duration: 90
+    Location: Online
+    Time: '16:00'
+  - Date: 11-OCT-24
+    Duration: 90
+    Location: Online
+    Time: '14:00'
+  - Date: 11-OCT-24
+    Duration: 90
+    Location: Online
+    Time: '16:00'
+  - Date: 22-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 22-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 23-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 23-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 24-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 24-OCT-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 05-NOV-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 05-NOV-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 06-NOV-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 06-NOV-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 07-NOV-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 07-NOV-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 13-NOV-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 13-NOV-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 19-NOV-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 19-NOV-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  - Date: 20-NOV-24
+    Duration: 90
+    Location: LC1
+    Time: 09:30
+  - Date: 20-NOV-24
+    Duration: 90
+    Location: LC1
+    Time: '11:30'
+  Timetabled Hours: 36
+Semester One:
+- Course Code: BDS MAT 109
+  Course Name: Mathematics for Data Scientists
+  Credits: 3
+  Lecturer: Suchismita Das
+  Personal Study Hours: 36
+  Prerequisites/Co-requisites: NIL
+  Schedule:
+  - Date: 17-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 17-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 17-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '14:00'
+  - Date: 19-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 19-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 19-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '14:00'
+  - Date: 24-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 24-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 24-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '14:00'
+  - Date: 26-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 26-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 26-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '14:00'
+  - Date: 01-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 01-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 01-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: '14:00'
+  - Date: 03-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 03-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 03-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: '14:00'
+  - Date: 09-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 09-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 09-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: '14:00'
+  - Date: 11-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 11-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 11-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: '14:00'
+  Timetabled Hours: 36
+- Course Code: BDS MAT 110
+  Course Name: Introduction to Statistics and Probability
+  Credits: 3
+  Lecturer: Abhijit Dasgupta and Karman Kaur
+  Personal Study Hours: 36
+  Prerequisites/Co-requisites: NIL
+  Schedule:
+  - Date: 09-SEP-24
+    Duration: 180
+    Location: LC4
+    Time: '14:00'
+  - Date: 16-SEP-24
+    Duration: 180
+    Location: LC4
+    Time: '14:00'
+  - Date: 23-SEP-24
+    Duration: 180
+    Location: LC4
+    Time: '14:00'
+  - Date: 30-SEP-24
+    Duration: 180
+    Location: LC4
+    Time: '14:00'
+  - Date: 14-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 14-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 04-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 04-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 11-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 11-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 18-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 18-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 25-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 25-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 02-DEC-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 02-DEC-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  Timetabled Hours: 36
+- Course Code: BDS BUS 101
+  Course Name: 'Foundation Skills 1: Personal and Career Foundations'
+  Credits: 1
+  Lecturer: Shurmara Fernando
+  Personal Study Hours: 13.5
+  Prerequisites/Co-requisites: NIL
+  Schedule:
+  - Date: 02-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: '14:00'
+  - Date: 02-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: '16:00'
+  - Date: 17-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: '14:00'
+  - Date: 06-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: '14:00'
+  - Date: 06-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: '16:00'
+  - Date: 20-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: '14:00'
+  - Date: 20-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: '16:00'
+  - Date: 04-DEC-24
+    Duration: 90
+    Location: LC4
+    Time: '14:00'
+  - Date: 04-DEC-24
+    Duration: 90
+    Location: LC4
+    Time: '16:00'
+  Timetabled Hours: 13.5
+- Course Code: BDS CSC 101
+  Course Name: Introduction to Computer Programming
+  Credits: 3
+  Lecturer: Aditya Narvekar
+  Personal Study Hours: 36
+  Prerequisites/Co-requisites: NIL
+  Schedule:
+  - Date: 10-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 10-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 12-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 12-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 25-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '14:00'
+  - Date: 25-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '16:00'
+  - Date: 08-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 08-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 10-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 10-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 17-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 17-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 06-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 06-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 13-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 13-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 20-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 20-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 27-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 27-NOV-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 04-DEC-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 04-DEC-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 11-DEC-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 11-DEC-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  Timetabled Hours: 36
+- Course Code: BDS DSC 101
+  Course Name: Introduction to Databases
+  Credits: 3
+  Lecturer: Sunil Lakdawala
+  Personal Study Hours: 36
+  Prerequisites/Co-requisites: NIL
+  Schedule:
+  - Date: 09-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 11-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 13-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 16-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 18-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 20-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 23-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 25-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 27-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 30-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 02-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 04-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: 09:30
+  - Date: 09-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 11-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 13-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 16-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 18-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 20-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 23-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 25-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 27-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 30-SEP-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 02-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  - Date: 04-OCT-24
+    Duration: 90
+    Location: LC4
+    Time: '11:30'
+  Timetabled Hours: 36
+Semester Three:
+- Course Code: BDS MAT 205
+  Course Name: Advanced Calculus
+  Credits: 3
+  Lecturer: Karman Kaur
+  Personal Study Hours: 36
+  Prerequisites/Co-requisites: Calculus
+  Schedule:
+  - Date: 18-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 18-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 18-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '14:00'
+  - Date: 18-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '16:00'
+  - Date: 25-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 25-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 25-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '14:00'
+  - Date: 25-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '16:00'
+  - Date: 02-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 02-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 09-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 09-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 16-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 16-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 23-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 23-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 06-NOV-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 06-NOV-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 13-NOV-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 13-NOV-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 20-NOV-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 20-NOV-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 27-NOV-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 27-NOV-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 04-DEC-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 04-DEC-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  Timetabled Hours: 36
+- Course Code: BDS MAT 206
+  Course Name: Algorithms and Data Structures
+  Credits: 3
+  Lecturer: Narasimha Karumanchi
+  Personal Study Hours: 36
+  Prerequisites/Co-requisites: Introduction to Computer Programming
+  Schedule:
+  - Date: 03-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 03-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 04-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 04-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 05-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 05-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 06-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 06-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 09-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 09-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 10-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 10-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 11-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 11-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 12-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 12-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 13-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 13-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 01-OCT-24
+    Duration: 90
+    Location: Online
+    Time: '14:00'
+  - Date: 03-OCT-24
+    Duration: 90
+    Location: Online
+    Time: '14:00'
+  - Date: 15-NOV-24
+    Duration: 90
+    Location: Online
+    Time: '14:00'
+  - Date: 15-NOV-24
+    Duration: 90
+    Location: Online
+    Time: '16:00'
+  Timetabled Hours: 36
+- Course Code: BDS ORG 201
+  Course Name: 'Employability and Practitioner Skills Series 1: Emotional Intelligence'
+  Credits: 1
+  Lecturer: Richard Coller
+  Personal Study Hours: 13.5
+  Prerequisites/Co-requisites: 'Foundation Skills 1 and BDS LIB 101: Foundation Skills
+    2'
+  Schedule:
+  - Date: 23-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '15:00'
+  - Date: 02-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '14:00'
+  - Date: 07-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '14:00'
+  - Date: 23-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '14:00'
+  - Date: 06-NOV-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '14:00'
+  - Date: 13-NOV-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '14:00'
+  - Date: 20-NOV-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '14:00'
+  - Date: 27-NOV-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '14:00'
+  - Date: 04-DEC-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '14:00'
+  Timetabled Hours: 13.5
+- Course Code: BDS DSC 203
+  Course Name: Data Integration and Warehousing
+  Credits: 3
+  Lecturer: Dinakar Bhotta
+  Personal Study Hours: 36
+  Prerequisites/Co-requisites: Introduction to Databases
+  Schedule:
+  - Date: 16-SEP-24
+    Duration: 180
+    Location: BDS LAB
+    Time: '17:00'
+  - Date: 17-SEP-24
+    Duration: 180
+    Location: BDS LAB
+    Time: '17:00'
+  - Date: 23-SEP-24
+    Duration: 180
+    Location: BDS LAB
+    Time: '17:00'
+  - Date: 24-SEP-24
+    Duration: 180
+    Location: BDS LAB
+    Time: '17:00'
+  - Date: 01-OCT-24
+    Duration: 180
+    Location: BDS LAB
+    Time: '17:00'
+  - Date: 08-OCT-24
+    Duration: 180
+    Location: BDS LAB
+    Time: '17:00'
+  - Date: 22-OCT-24
+    Duration: 180
+    Location: BDS LAB
+    Time: '17:00'
+  - Date: 05-NOV-24
+    Duration: 180
+    Location: BDS LAB
+    Time: '17:00'
+  - Date: 12-NOV-24
+    Duration: 180
+    Location: BDS LAB
+    Time: '17:00'
+  - Date: 19-NOV-24
+    Duration: 180
+    Location: BDS LAB
+    Time: '17:00'
+  - Date: 26-NOV-24
+    Duration: 180
+    Location: BDS LAB
+    Time: '17:00'
+  - Date: 03-DEC-24
+    Duration: 180
+    Location: BDS LAB
+    Time: '17:00'
+  Timetabled Hours: 36
+- Course Code: BDS DSC 204
+  Course Name: Visual Analytics
+  Credits: 3
+  Lecturer: Khimji Vaghjiani
+  Personal Study Hours: 36
+  Prerequisites/Co-requisites: NIL
+  Schedule:
+  - Date: 20-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '14:00'
+  - Date: 20-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '16:00'
+  - Date: 27-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '14:00'
+  - Date: 27-SEP-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '16:00'
+  - Date: 03-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 03-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 04-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '14:00'
+  - Date: 04-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '16:00'
+  - Date: 10-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 10-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 11-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '14:00'
+  - Date: 11-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '16:00'
+  - Date: 24-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 24-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 25-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '14:00'
+  - Date: 25-OCT-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '16:00'
+  - Date: 07-NOV-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 07-NOV-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 08-NOV-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '14:00'
+  - Date: 08-NOV-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '16:00'
+  - Date: 05-DEC-24
+    Duration: 90
+    Location: BDS LAB
+    Time: 09:30
+  - Date: 05-DEC-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '11:30'
+  - Date: 06-DEC-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '14:00'
+  - Date: 06-DEC-24
+    Duration: 90
+    Location: BDS LAB
+    Time: '16:00'
+  Timetabled Hours: 36
