@@ -1,0 +1,314 @@
+{
+    "menu": {
+        "beef": [
+            {
+                "name": "Quarter Pounder BBQ Bacon",
+                "description": "Quarter pound beef patty with BBQ sauce, bacon, cheese, and fresh toppings.",
+                "price": 8.7,
+                "kJ": 2540
+            },
+            {
+                "name": "Quarter Pounder Deluxe",
+                "description": "Quarter pound beef patty with cheese, fresh lettuce, tomatoes, and mayo.",
+                "price": 8.4,
+                "kJ": 2410
+            },
+            {
+                "name": "Quarter Pounder",
+                "description": "Quarter pound of 100% fresh beef with onions, pickles, and condiments.",
+                "price": 7.7,
+                "kJ": 2240
+            },
+            {
+                "name": "Double Quarter Pounder",
+                "description": "Two quarter pound beef patties with cheese, onions, pickles, and condiments.",
+                "price": 9.8,
+                "kJ": 3440
+            },
+            {
+                "name": "BBQ Bacon Angus",
+                "description": "Angus beef patty with BBQ sauce, bacon, cheese, and fresh toppings.",
+                "price": 10.5,
+                "kJ": 3330
+            },
+            {
+                "name": "Double Cheeseburger",
+                "description": "Two beef patties with two slices of cheese, onions, pickles, and condiments.",
+                "price": 6.1,
+                "kJ": 1860
+            },
+            {
+                "name": "Cheeseburger",
+                "description": "Beef patty with cheese, onions, pickles, and condiments.",
+                "price": 4.8,
+                "kJ": 1200
+            },
+            {
+                "name": "Big Mac",
+                "description": "Two all-beef patties, special sauce, lettuce, cheese, pickles, onions on a sesame seed bun.",
+                "price": 7.5,
+                "kJ": 2060
+            },
+            {
+                "name": "Triple Cheeseburger",
+                "description": "Three beef patties with three slices of cheese, onions, pickles, and condiments.",
+                "price": 8.0,
+                "kJ": 2470
+            },
+            {
+                "name": "McRib",
+                "description": "Boneless pork patty shaped like a rack of ribs, topped with barbecue sauce, onions, and pickles.",
+                "price": 4.99,
+                "kJ": 1870
+            }
+        ],
+        "chicken and fish": [
+            {
+                "name": "McChicken",
+                "description": "Crispy chicken fillet topped with mayonnaise and shredded lettuce, served on a perfectly toasty bun.",
+                "price": 7.8,
+                "kJ": 1600
+            },
+            {
+                "name": "Filet-O-Fish",
+                "description": "Fish filet patty with tartar sauce and cheese on a steamed bun.",
+                "price": 6.5,
+                "kJ": 1380
+            },
+            {
+                "name": "Premium Grilled Chicken Classic Sandwich",
+                "description": "Grilled chicken breast filet with lettuce and tomato on a toasted bun.",
+                "price": 5.49,
+                "kJ": 1440
+            },
+            {
+                "name": "Premium Crispy Chicken Classic Sandwich",
+                "description": "Crispy chicken breast filet with lettuce and tomato on a toasted bun.",
+                "price": 5.49,
+                "kJ": 1770
+            },
+            {
+                "name": "Southern Style Crispy Chicken Sandwich",
+                "description": "Crispy chicken filet with pickles on a steamed bun.",
+                "price": 4.99,
+                "kJ": 1680
+            }
+        ],
+        "wraps and salads": [
+            {
+                "name": "Ranch Snack Wrap (Crispy)",
+                "description": "Crispy chicken, ranch sauce, lettuce, and cheese in a soft tortilla.",
+                "price": 4.7,
+                "kJ": 1260
+            },
+            {
+                "name": "Ranch Snack Wrap (Grilled)",
+                "description": "Grilled chicken, ranch sauce, lettuce, and cheese in a soft tortilla.",
+                "price": 6.25,
+                "kJ": 1130
+            },
+            {
+                "name": "Honey Mustard Snack Wrap (Crispy)",
+                "description": "Crispy chicken, honey mustard sauce, lettuce, and cheese in a soft tortilla.",
+                "price": 5.5,
+                "kJ": 1280
+            },
+            {
+                "name": "Side Salad",
+                "description": "A blend of premium lettuces, topped with red grape tomatoes and shredded carrots.",
+                "price": 3.85,
+                "kJ": 50
+            },
+            {
+                "name": "Premium Southwest Salad with Grilled Chicken",
+                "description": "Salad blend with grilled chicken, roasted corn, black beans, tomatoes, poblano peppers, and lime wedge.",
+                "price": 9.75,
+                "kJ": 1330
+            },
+            {
+                "name": "Premium Bacon Ranch Salad with Grilled Chicken",
+                "description": "Salad blend with grilled chicken, bacon pieces, shredded cheese, and tomatoes.",
+                "price": 11.35,
+                "kJ": 1230
+            }
+        ],
+        "sides and snacks": [
+            {
+                "name": "Small Fries",
+                "description": "Golden, crispy, and perfectly salted fries made from quality potatoes.",
+                "price": 2.6,
+                "kJ": 1100
+            },
+            {
+                "name": "Large Fries",
+                "description": "Golden, crispy, and perfectly salted fries made from quality potatoes.",
+                "price": 4.0,
+                "kJ": 1100
+            },
+            {
+                "name": "Apple Dippers",
+                "description": "Sliced apples served with a low-fat caramel dip.",
+                "price": 2.4,
+                "kJ": 170
+            },
+            {
+                "name": "Hash Brown",
+                "description": "Crispy, golden hash brown made from real potatoes.",
+                "price": 2.5,
+                "kJ": 580
+            }
+        ],
+        "happy meal": [
+            {
+                "name": "Chicken McNuggets - 6pc",
+                "description": "Six pieces of Chicken McNuggets served with a Happy Meal.",
+                "price": 10.25,
+                "kJ": 905
+            },
+            {
+                "name": "Hamburger",
+                "description": "Classic McDonald's Hamburger with a Happy Meal.",
+                "price": 5.75,
+                "kJ": 1040
+            },
+            {
+                "name": "Cheeseburger",
+                "description": "Classic McDonald's Cheeseburger with a Happy Meal.",
+                "price": 5.75,
+                "kJ": 1240
+            },
+            {
+                "name": "Chicken McNuggets - 3pc",
+                "description": "Three pieces of Chicken McNuggets served with a Happy Meal.",
+                "price": 5.75,
+                "kJ": 452
+            },
+            {
+                "name": "Grilled Chicken Snack Wrap",
+                "description": "Grilled chicken wrap served with a Happy Meal.",
+                "price": 5.75,
+                "kJ": 904
+            },
+            {
+                "name": "Chicken Snack Wrap Happy Meal",
+                "description": "Chicken snack wrap served with a Happy Meal.",
+                "price": 5.75,
+                "kJ": 1110
+            }
+        ],
+        "breakfast": [
+            {
+                "name": "Egg McMuffin",
+                "description": "Toasted English muffin with Canadian bacon, egg, and cheese.",
+                "price": 3.75,
+                "kJ": 1340
+            },
+            {
+                "name": "Sausage McMuffin with Egg",
+                "description": "Toasted English muffin with sausage patty, egg, and cheese.",
+                "price": 4.4,
+                "kJ": 1780
+            },
+            {
+                "name": "Bacon, Egg & Cheese Biscuit",
+                "description": "Warm biscuit with bacon, folded egg, and cheese.",
+                "price": 4.6,
+                "kJ": 1890
+            },
+            {
+                "name": "Hotcakes",
+                "description": "Three golden brown hotcakes with syrup and margarine.",
+                "price": 4.0,
+                "kJ": 1880
+            }
+        ],
+        "desserts": [
+            {
+                "name": "Oreo McFlurry",
+                "description": "Creamy vanilla soft serve with Oreo cookie pieces blended throughout.",
+                "price": 4.2,
+                "kJ": 1360
+            },
+            {
+                "name": "Apple Pie",
+                "description": "A classic dessert made with crispy pastry and a warm apple filling.",
+                "price": 3.5,
+                "kJ": 1000
+            },
+            {
+                "name": "Fruit 'n Yogurt Parfait",
+                "description": "Low-fat vanilla yogurt layered with berries and granola.",
+                "price": 2.5,
+                "kJ": 580
+            },
+            {
+                "name": "Cinnamon Melts",
+                "description": "Warm, pull-apart cinnamon rolls drizzled with cream cheese icing.",
+                "price": 2.5,
+                "kJ": 1520
+            }
+        ],
+        "beverages": [
+            {
+                "name": "Coke",
+                "description": "Ice-cold, refreshing Coca-Cola served in a cup.",
+                "price": 4,
+                "kJ": 580
+            },
+            {
+                "name": "McCaf\u00e9 Premium Roast Coffee",
+                "description": "A smooth, rich blend of 100% Arabica beans, brewed fresh for you.",
+                "price": 4.2,
+                "kJ": 0
+            },
+            {
+                "name": "Iced Coffee",
+                "description": "Available in caramel, hazelnut, vanilla, and sugar-free vanilla flavors.",
+                "price": 4.2,
+                "kJ": 380
+            },
+            {
+                "name": "Chocolate Triple Thick Shake",
+                "description": "Thick and creamy chocolate milkshake.",
+                "price": 4.55,
+                "kJ": 1680
+            },
+            {
+                "name": "McCaf\u00e9 Latte",
+                "description": "Smooth and creamy milk blended with espresso for a classic latte.",
+                "price": 4.5,
+                "kJ": 675
+            },
+            {
+                "name": "McCaf\u00e9 Flat White",
+                "description": "A velvety, creamy flat white with milk and a shot of espresso.",
+                "price": 4.0,
+                "kJ": 590
+            },
+            {
+                "name": "McCaf\u00e9 Mocha",
+                "description": "A chocolatey mix of espresso, steamed milk, and cocoa.",
+                "price": 5.0,
+                "kJ": 800
+            },
+            {
+                "name": "McCaf\u00e9 Cappuccino",
+                "description": "Rich espresso topped with frothy milk foam.",
+                "price": 4.25,
+                "kJ": 650
+            },
+            {
+                "name": "McCaf\u00e9 Espresso",
+                "description": "A strong, concentrated shot of espresso.",
+                "price": 4.5,
+                "kJ": 50
+            },
+            {
+                "name": "McCaf\u00e9 Iced Chocolate",
+                "description": "Chilled chocolate drink topped with whipped cream.",
+                "price": 4.5,
+                "kJ": 1200
+            }
+        ]
+    }
+}
